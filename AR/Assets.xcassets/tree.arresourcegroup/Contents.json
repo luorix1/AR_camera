@@ -1,0 +1,32 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "_1_failed.arobject"
+    },
+    {
+      "filename" : "_1_failed2.arobject"
+    },
+    {
+      "filename" : "_1_failed3.arobject"
+    },
+    {
+      "filename" : "_1_failed4.arobject"
+    },
+    {
+      "filename" : "_1_new.arobject"
+    },
+    {
+      "filename" : "_1.arobject"
+    },
+    {
+      "filename" : "PLANT__08_Seed01.arobject"
+    },
+    {
+      "filename" : "PLANT__08_Seed02.arobject"
+    }
+  ]
+}
